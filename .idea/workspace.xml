@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b3d651f-e26d-433c-a9b7-321229e03212" name="Default Changelist" comment="init commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gfw3T7RAbiaR6PfWvSLNiaEXKY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/E-array" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\loop" />
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\Uppgifter\Uppgift b" />
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\Uppgift 1" />
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\A-HTML" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\Problemlösning uppgifter" />
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\E-array" />
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\loop" />
+      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\B-php" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open orjanricoss" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b3d651f-e26d-433c-a9b7-321229e03212" name="Default Changelist" comment="" />
+      <created>1598518755690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598518755690</updated>
+      <workItem from="1598518757377" duration="437000" />
+      <workItem from="1599027095147" duration="4529000" />
+      <workItem from="1599120133284" duration="3313000" />
+      <workItem from="1599123694832" duration="1126000" />
+      <workItem from="1599632194351" duration="4035000" />
+      <workItem from="1599724979564" duration="4517000" />
+      <workItem from="1600236780830" duration="2988000" />
+      <workItem from="1600239942060" duration="1492000" />
+      <workItem from="1600329726101" duration="4847000" />
+      <workItem from="1600337563552" duration="1383000" />
+      <workItem from="1600841860459" duration="637000" />
+      <workItem from="1600842799933" duration="3189000" />
+      <workItem from="1602051419730" duration="4267000" />
+      <workItem from="1602144509638" duration="4102000" />
+      <workItem from="1602749062984" duration="4452000" />
+      <workItem from="1603353818136" duration="4590000" />
+      <workItem from="1603368198994" duration="214000" />
+      <workItem from="1604474109184" duration="4612000" />
+      <workItem from="1604567033195" duration="4408000" />
+      <workItem from="1605171706071" duration="4461000" />
+      <workItem from="1605777663683" duration="3345000" />
+      <workItem from="1606289176403" duration="1061000" />
+      <workItem from="1606290783296" duration="36000" />
+      <workItem from="1606291013211" duration="48000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="153" key="#Web_Browsers" timestamp="1606289562651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1606289562651" />
+    <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599120378318">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599120378318" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606290243035">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606290243035" />
+    <state x="560" y="262" key="Github.ShareDialog" timestamp="1606290391734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="560" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606290391734" />
+    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1605175636219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605175636219" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1606291062657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606291062657" />
+    <state x="569" y="278" key="VCS.EditChangelistDialog" timestamp="1606290009536">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606290009536" />
+    <state x="553" y="256" key="publish.login" timestamp="1599028740562">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="553" y="256" key="publish.login/0.0.1366.728@0.0.1366.728" timestamp="1599028740562" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1599028621405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599028621405" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600332352235">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600332352235" />
+    <state x="146" y="115" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1606289916015">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="146" y="115" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1366.728@0.0.1366.728" timestamp="1606289916015" />
+  </component>
+</project>
