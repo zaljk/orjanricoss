@@ -1,7 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b3d651f-e26d-433c-a9b7-321229e03212" name="Default Changelist" comment="init commit" />
+    <list default="true" id="7b3d651f-e26d-433c-a9b7-321229e03212" name="Default Changelist" comment="init commit">
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 1/ex1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 1/foot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 1/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 1/name.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 1/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 2/foot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 2/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 2/namn.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 2/uppgift 2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 3/foot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 3/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 3/nummer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 3/uppgift 3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 4/foot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 4/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 4/produkt.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 4/uppgift 4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 6/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 6/foot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 6/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 6/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/G-Textfiler/uppgift 6/uppgift 6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/arrayer/1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/arrayer/2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/arrayer/3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/inmatning/1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/inmatning/2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/loop/1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/loop/2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/loop/3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/villkor/1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/villkor/2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repetition/villkor/3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A-HTML/ex1.html" beforeDir="false" afterPath="$PROJECT_DIR$/A-HTML/ex1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-array/uppgift 6.php" beforeDir="false" afterPath="$PROJECT_DIR$/E-array/uppgift 6.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 4.php" beforeDir="false" afterPath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 4.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +78,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="origin/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectId" id="1gfw3T7RAbiaR6PfWvSLNiaEXKY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,23 +100,25 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/E-array" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/G-Textfiler/uppgift 6" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler\uppgift 2" />
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler\uppgift 1" />
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler" />
       <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\loop" />
       <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\Uppgifter\Uppgift b" />
-      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\Uppgift 1" />
-      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\A-HTML" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\Problemlösning uppgifter" />
-      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\E-array" />
-      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\loop" />
-      <recent name="C:\Users\ZK0002\PhpstormProjects\orjanricoss\B-php" />
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler\uppgift 6" />
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler\uppgift 4" />
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler\uppgift 3" />
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler\uppgift 2" />
+      <recent name="C:\Users\Mert\PhpstormProjects\orjanricoss\G-Textfiler" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -88,11 +158,38 @@
       <workItem from="1606289176403" duration="1061000" />
       <workItem from="1606290783296" duration="36000" />
       <workItem from="1606291013211" duration="48000" />
+      <workItem from="1606292860870" duration="35000" />
+      <workItem from="1606304373583" duration="415000" />
+      <workItem from="1606381713940" duration="4321000" />
+      <workItem from="1607498486383" duration="2471000" />
+      <workItem from="1607591358746" duration="344000" />
+      <workItem from="1608104845063" duration="3067000" />
+      <workItem from="1610522326841" duration="5274000" />
+      <workItem from="1611126878690" duration="3249000" />
+      <workItem from="1611220288388" duration="3290000" />
+      <workItem from="1611825089836" duration="4187000" />
+      <workItem from="1612339339441" duration="1874000" />
+      <workItem from="1612429709063" duration="5063000" />
+      <workItem from="1612451196151" duration="13635000" />
+      <workItem from="1612637604698" duration="255000" />
+      <workItem from="1612637901916" duration="3752000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -100,49 +197,71 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="310" y="105" key="#Deployment" timestamp="1606382826936">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="310" y="105" key="#Deployment/0.0.1680.1020@0.0.1680.1020" timestamp="1606382826936" />
+    <state x="517" y="191" key="#Options" timestamp="1606382874080">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="517" y="191" key="#Options/0.0.1680.1020@0.0.1680.1020" timestamp="1606382874080" />
+    <state x="547" y="152" key="#PHP" timestamp="1606382453022">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="547" y="152" key="#PHP/0.0.1680.1020@0.0.1680.1020" timestamp="1606382453022" />
     <state x="480" y="153" key="#Web_Browsers" timestamp="1606289562651">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="480" y="153" key="#Web_Browsers/0.0.1366.728@0.0.1366.728" timestamp="1606289562651" />
-    <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599120378318">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="449" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599120378318" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606290243035">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="569" y="167" key="FileChooserDialogImpl" timestamp="1606382293337">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606290243035" />
+    <state x="569" y="167" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1606382293337" />
     <state x="560" y="262" key="Github.ShareDialog" timestamp="1606290391734">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="560" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606290391734" />
-    <state x="518" y="287" key="NewPhpFileDialog" timestamp="1605175636219">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="637" y="402" key="NewPhpFileDialog" timestamp="1612637658714">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605175636219" />
-    <state x="184" y="9" key="SettingsEditor" timestamp="1606291062657">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="637" y="402" key="NewPhpFileDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1612637658714" />
+    <state x="682" y="112" key="SettingsEditor" timestamp="1612456022887">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606291062657" />
+    <state x="682" y="112" key="SettingsEditor/0.0.1680.1020@0.0.1680.1020" timestamp="1612456022887" />
     <state x="569" y="278" key="VCS.EditChangelistDialog" timestamp="1606290009536">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="569" y="278" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1606290009536" />
-    <state x="553" y="256" key="publish.login" timestamp="1599028740562">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="496" y="235" width="672" height="677" key="run.anything.popup" timestamp="1612638738049">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="553" y="256" key="publish.login/0.0.1366.728@0.0.1366.728" timestamp="1599028740562" />
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1599028621405">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="496" y="235" width="672" height="677" key="run.anything.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1612638738049" />
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1612455792035">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1599028621405" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600332352235">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600332352235" />
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1612455792035" />
     <state x="146" y="115" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1606289916015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="146" y="115" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1366.728@0.0.1366.728" timestamp="1606289916015" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/G-Textfiler/uppgift 1/ex1.php</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/E-array/uppgift 5.php</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

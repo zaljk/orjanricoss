@@ -1,0 +1,5 @@
+Hej
+Det här är en textfil.
+Den har några rader.
+Snart är det jul.
+Då får man julklappar.

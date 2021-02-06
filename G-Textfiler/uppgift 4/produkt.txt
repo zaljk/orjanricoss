@@ -1,0 +1,12 @@
+
+Namn Antal Pris
+SINTESI-Mata 4 19995
+KHS-Flite 4 12995
+CrossMax 12 3690
+CrossRacer 5 1450
+DT-Nipplar 2001 0.5
+Godis     5     40
+Leopard     6     43000
+Mus 5 5000
+Godis 2 100
+Katt 2 50
