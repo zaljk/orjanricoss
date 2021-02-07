@@ -10,11 +10,12 @@ while($i > 1) {
 }
 $sum = 0;
 $i = 0;
-while($i > count($arr)){
+while($i < count($arr)){
     $sum = $arr[$i] + $sum;
     $i++;
 
 }
+echo $sum;
 }
 ?>
 <form method="post">
