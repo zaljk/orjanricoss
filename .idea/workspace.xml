@@ -19,10 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7b3d651f-e26d-433c-a9b7-321229e03212" name="Default Changelist" comment="upload.">
+    <list default="true" id="7b3d651f-e26d-433c-a9b7-321229e03212" name="Default Changelist" comment="upload.daw">
+      <change afterPath="$PROJECT_DIR$/C-php/uppgift 11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C-php/uppgift 12.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C-php/uppgift 9.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 6.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 7.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 8.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 4.php" beforeDir="false" afterPath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repetition/arrayer/2.php" beforeDir="false" afterPath="$PROJECT_DIR$/repetition/arrayer/2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C-php/uppgift 8.php" beforeDir="false" afterPath="$PROJECT_DIR$/C-php/uppgift 8.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 5.php" beforeDir="false" afterPath="$PROJECT_DIR$/Problemlösning uppgifter/uppgift 5.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +141,8 @@
       <workItem from="1612637604698" duration="255000" />
       <workItem from="1612637901916" duration="4574000" />
       <workItem from="1612644595809" duration="291000" />
-      <workItem from="1612704190641" duration="1732000" />
+      <workItem from="1612704190641" duration="9476000" />
+      <workItem from="1612723805601" duration="6761000" />
     </task>
     <task id="LOCAL−00001" summary="upload.">
       <created>1612642074560</created>
@@ -143,7 +150,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1612642074637</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="upload.">
+      <created>1612708104151</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1612708104151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,11 +207,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="560" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1606290391734" />
-    <state x="637" y="402" key="NewPhpFileDialog" timestamp="1612637658714">
+    <state x="637" y="402" key="NewPhpFileDialog" timestamp="1612730548183">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="518" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605175636219" />
-    <state x="637" y="402" key="NewPhpFileDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1612637658714" />
+    <state x="637" y="402" key="NewPhpFileDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1612730548183" />
     <state x="682" y="112" key="SettingsEditor" timestamp="1612456022887">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -216,10 +229,10 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="496" y="235" width="672" height="677" key="run.anything.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1612638738049" />
-    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1612455792035">
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1612728928674">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1612455792035" />
+    <state x="503" y="220" width="672" height="678" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1612728928674" />
     <state x="146" y="115" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1606289916015">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
