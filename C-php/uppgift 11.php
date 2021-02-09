@@ -2,7 +2,7 @@
 if(isset($_POST['h'], $_POST['r'])) {
 
     if (!is_numeric($_POST['r']) || !is_numeric($_POST['h'])) {
-        echo 'Skriv en siffra idiot';
+        echo 'Skriv en siffra';
     }
 
     else{
@@ -11,7 +11,7 @@ if(isset($_POST['h'], $_POST['r'])) {
 
         $i = $r * $r * M_PI * $h;
         if ($r <= 0 || $h <= 0) {
-            echo 'Ange ett rimligt tal idiot';
+            echo 'Ange ett rimligt tal';
         } else {
             echo 'Volymen är ' . $i;
         }

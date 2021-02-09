@@ -2,15 +2,27 @@
 include 'head.php';
 
 if(isset($_POST['tal'])){
+    $j = $_POST['tal'];
+
+    $i = 1;
+    while($j > $i){
+        echo $i . '+';
+        $i++;
+        if($j == $i){
+            echo $j . '=';
+        }
+
+    }
+
 
   $summa = 0;
-$j = $_POST['tal'];
 $i = 0;
 while($i < $j){
   $summa = $j + $summa;
   $j --;
 }
-  echo 'Summan blir ' . $summa;
+
+echo $summa;
 
 
 

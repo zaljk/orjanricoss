@@ -11,6 +11,7 @@ if(!isset($_SESSION['arr1'])){  //Utropstecken = inte
 if (isset($_POST['inmatning'])){
   if ($_POST['inmatning'] == 'stopp'){
     $_SESSION['arr1'] = [];
+    echo 'test';
   } else{
     $_SESSION['arr1'][] = $_POST['inmatning'];
   }
