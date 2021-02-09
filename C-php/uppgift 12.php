@@ -1,4 +1,13 @@
 <?php
+
+
+
+
+?>
+<form method="post">
+  <input type="text" name="r" placeholder="radie">
+  <input type="text" name="h" placeholder="höjd">
+  <input type="submit" value="Submit">
 if(isset($_POST['m1'], $_POST['l'], $_POST['m2'])) {
 
     is_int($_POST['m1'] && $_POST['m2']);

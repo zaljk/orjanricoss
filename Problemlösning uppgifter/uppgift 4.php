@@ -1,5 +1,5 @@
 <?php
-include 'head.php';
+include ''
 $i = 1;
 $sum = 1;
 

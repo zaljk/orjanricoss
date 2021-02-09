@@ -1,22 +1,37 @@
 <?php
-if(isset($_POST['t'], $_POST['n'])){
+include 'head.php';
 
-    $t = $_POST['t'];
-    $n = $_POST['n'];
+if (isset ($_POST['täljare'], $_POST ['nämnare'])) {
 
-    $x = (int)($t/$n);
-    $i = $t % $n;
+  $i = ($_POST['täljare']) / ($_POST['nämnare']);
+  echo $i;
 
 
-echo $x . '+' . $i . '/' . $n;
+
+
+
 
 
 
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+include 'foot.php';
 ?>
 <form method="post">
-    <input type="text" name="t" placeholder="täljare">
-    <input type="text" name="n" placeholder="nämnare">
-    <input type="submit" value="Submit">
+  <input type="text" name="täljare" placeholder="Täljare">
+  <input type="text" name="nämnare" placeholder="Nämnare">
+  <input type="submit" value="Räkna">
